@@ -1,0 +1,10 @@
+.Wrap {
+    width: 100%;
+    height: 100%;
+}
+
+.Wrap-header {
+    width: 100%;
+    height: 1rem;
+    background: red;
+}
